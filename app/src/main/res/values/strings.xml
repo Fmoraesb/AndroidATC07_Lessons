@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Exercícios da Lição 07</string>
+    <string name="draft_toast">Message saved as draft!</string>
+    <string name="toas_OnStart">OnStart method is working!</string>
+    <string name="toast_onCreate">OnCreate method is working!</string>
+</resources>
